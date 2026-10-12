@@ -1,0 +1,22 @@
+COASTAL BAKERIES (PTY) LTD
+14 Harbour Road, Durban, 4001   VAT No. 4000000001
+
+PURCHASE ORDER
+
+PO Number:      CB-2026-0418
+Date:           05/10/2026
+Deliver by:     19/10/2026
+Deliver to:     Coastal Bakeries Central Kitchen, 22 Mill Lane, Pinetown, 3610
+
+Supplier: Your packaging company
+
+Item  Our code   Description                          Qty    Unit price    Amount
+1     CBK-221    Cake box 10" white, window           500    R 6,80        R 3 400,00
+2     CBK-223    Cake box 12" white, window           250    R 8,20        R 2 050,00
+3     CBK-310    Serviettes 2ply white 330mm (x100)    40    R 21,90         R 876,00
+
+                                         Subtotal (excl. VAT)   R 6 326,00
+                                         VAT 15%                R   948,90
+                                         TOTAL                  R 7 274,90
+
+Authorised: T. Naidoo, Procurement

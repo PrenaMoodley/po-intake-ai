@@ -1,0 +1,16 @@
+RIDGEVIEW CATERING SERVICES
+Purchase Order No: RCS/PO/0092
+Order date: 2026/10/02
+
+Delivery address: Ridgeview Conference Centre, 5 Ridge Rd, Umhlanga, 4319
+Delivery date: ASAP
+
+Qty   Description                               Unit Price   Total
+12    Hinged takeaway containers 1L (case 250)  R 575.00     R 6 900.00
+5     Hinged takeaway containers 750ml (case)   R 540.00     R 2 700.00
+200   Pizza box kraft 14 inch                   R 4.60       R   920.00
+        [handwritten: qty 200 crossed out, 150 written next to it]
+
+Subtotal                                                     R 10 520.00
+VAT                                                          R  1 578.00
+Total                                                        R 12 098.00
